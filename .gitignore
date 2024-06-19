@@ -1,0 +1,11 @@
+tut1/venv
+tut2/venv
+tut3/venv
+
+tut1/__pycache__
+tut2/__pycache__
+tut3/app/__pycache__
+
+tut3/radial_rail.db
+
+
